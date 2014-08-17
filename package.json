@@ -1,0 +1,25 @@
+{
+  "name": "pk-districts",
+  "version": "0.0.1",
+  "description": "Districts data in different formats",
+  "main": "\"\"",
+  "scripts": {
+    "test": "\"\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pkgeography/pk-districts.git"
+  },
+  "keywords": [
+    "Pakistan",
+    "district",
+    "data",
+    "boundary"
+  ],
+  "author": "Jabran Rafique <hello@jabran.me>",
+  "license": "MIT License",
+  "bugs": {
+    "url": "https://github.com/pkgeography/pk-districts/issues"
+  },
+  "homepage": "https://github.com/pkgeography/pk-districts"
+}
