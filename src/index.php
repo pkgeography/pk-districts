@@ -1,6 +1,6 @@
 <?php
 
-define('ABSDIR', __DIR__);
+define('ABSDIR', dirname(__DIR__) . '/svg/parts');
 
 $files = scandir(ABSDIR);
 
