@@ -1,11 +1,7 @@
 {
   "name": "pk-districts",
   "version": "0.0.1",
-  "description": "Districts data in different formats",
-  "main": "\"\"",
-  "scripts": {
-    "test": "\"\""
-  },
+  "description": "Pakistan districts data in different formats",
   "repository": {
     "type": "git",
     "url": "https://github.com/pkgeography/pk-districts.git"
