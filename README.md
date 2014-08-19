@@ -5,7 +5,7 @@
 The structure of this repo holds following files:
 
 ``` shell
-|-- data/		# JSON format
+|-- json/		# JSON format
 |-- kml/		# Google Earth KML format
 |-- src/		# Source file to conver SVG format to JSON
 |-- svg/		# SVG format
