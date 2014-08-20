@@ -1,0 +1,22 @@
+{
+  "name": "pk-districts",
+  "version": "0.0.5",
+  "homepage": "https://github.com/pkgeography/pk-districts",
+  "authors": [
+    "Jabran Rafique <hello@jabran.me>"
+  ],
+  "description": "Pakistan districts data in different formats",
+  "keywords": [
+    "Pakistan",
+    "districts",
+    "data"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
